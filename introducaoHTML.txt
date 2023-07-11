@@ -1,0 +1,20 @@
+Qual a importancia do HTML, CSS e JAVASCRIPT para a construção de páginas
+
+	Essas tecnologia web são distintas mas complementares.
+	A começaar pelo HTML que é uma linguagem de marcação de texto (HyperText Markup Language) encontra-se atualmente na versão 5. 
+    É o arcabouçao das páginas web. É a base da internet. Um documento html é interpretado por um navegador web. Sua função principal 
+    é definir uma estrutura para o conteudo estático de um site, ou aplicação web. Espaçaos são delimitados de modo que cada elemento 
+    como hyperlinks, imagens, texto, tabelas até mesmo vídeos caibam da maneira planejada pelo cliente, tratando apenas do conteudo.
+	O documento html é dividido em cabeçaalho (head), corpo do conteudo principal (body), e rodapé(footer). Head, body, footer e outras 
+    palavras proprias utilizadas pelo html são chamadas de tags. Essas tags vsão indicar a localização de cada elemento de página.
+
+	CSS (CASCADING STYLE SHEETS), atualmente na versão 3, é o responsável pela estilização do conteúdo entregue pela html. Isso torna o 
+    site mais agradável visualmente e mais amigavel para o usuario.
+	Com o css é possí­vel formatar cada elemento html com cores, fontes, espaçaamento e até mesmo animaçações. É um documento distinto do 
+    html (.css) mas pode fazer parte da pagina html dentro de tags (não recomendável). Trabalha em conjunto com o html do lado do cliente 
+    (cliente-side). E para ajudar o desenvolvedor web, existem os frameworks como o Bootstrap e o Material design.
+
+	O JavaScript é uma linguagem de programação completa. Trabalha tanto do lado do cliente (cliente-side), quanto do lado do servidor(server-side). 
+    Essa tecnologia dinamiza a página web permitindo que o usuario interaja com a aplicação. Muito utilizado para desenvolvimento web, contribui para 
+    que sites estáticos tornem-se interativos.
+    Temos entsão os tres pilares da tecnologia web para desenvolvimento de sites que podem tornar a navegação web mais interativa e interessante para o usuário.
